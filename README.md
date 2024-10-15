@@ -62,4 +62,4 @@ This project is an AI-powered image generator built using Stability AI, with ima
 - **View Gallery**: Access the community showcase to see all the generated images.
 - **Contribute**: Share your generated images with the community by storing them in the showcase.
 
-Check it out at : (here)[https://imagine-ai-mern.vercel.app/]
+Check it out at : [here](https://imagine-ai-mern.vercel.app/)
