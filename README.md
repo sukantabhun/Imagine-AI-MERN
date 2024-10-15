@@ -61,3 +61,5 @@ This project is an AI-powered image generator built using Stability AI, with ima
 - **Generate Images**: Use the frontend interface to create images using Stability AI.
 - **View Gallery**: Access the community showcase to see all the generated images.
 - **Contribute**: Share your generated images with the community by storing them in the showcase.
+
+Check it out at : (here)[https://imagine-ai-mern.vercel.app/]
