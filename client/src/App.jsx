@@ -16,7 +16,7 @@ const App = () => {
           </div>
         </Link>
         <div>
-          <Link to='https://ai-studio-project.vercel.app/' className="font-inter font-medium bg-[#094b87] text-white px-4 py-2 rounded-md mr-4">Home</Link>
+          <Link to='https://ai-studio-project.vercel.app/' className="font-inter font-medium bg-[#50B054] text-white px-4 py-2 rounded-md mr-4">Home</Link>
           <Link to="/create-post" className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md">Create</Link>
         </div>
         
